@@ -1,0 +1,18 @@
+Comparing speeds of Fibonacci Procedures: 
+Enter n ----> 
+Using fibo_iterative(13): 
+The first 13 terms of the Fibonacci sequence:
+1 1 2 3 5 8 13 21 34 55 89 144 233 
+
+Using fibo_recursive(13): 
+The first 13 terms of the Fibonacci sequence:
+1 1 2 3 5 8 13 21 34 55 89 144 233 
+
+fibo_vector(13): 
+The first 13 terms of the Fibonacci sequence:
+1 1 2 3 5 8 13 21 34 55 89 144 233 
+
+fibo_map(13): 
+The first 13 terms of the Fibonacci sequence:
+1 1 2 3 5 8 13 21 34 55 89 144 233 
+
